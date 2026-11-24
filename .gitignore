@@ -1,0 +1,32 @@
+# Traces SCA brutes (jamais dans Git)
+trace/
+*.npy
+*.npz
+*.jsonl
+
+# Binaires de build
+*.o
+*.elf
+*.map
+*.hex.bak
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

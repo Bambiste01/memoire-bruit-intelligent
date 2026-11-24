@@ -1,0 +1,42 @@
+[
+ {
+  "condition": "sans protection",
+  "surcout_pct": 0.0,
+  "X_median": 20,
+  "X_p90": 20,
+  "effort_bits_nmax": 0.0,
+  "n_max": 8000
+ },
+ {
+  "condition": "d\u00e9lais avant, moyenne flott.",
+  "surcout_pct": 41.2,
+  "X_median": "> 8000",
+  "X_p90": "> 8000",
+  "effort_bits_nmax": 52.8,
+  "n_max": 8000
+ },
+ {
+  "condition": "d\u00e9lais avant, uniformes",
+  "surcout_pct": 40.8,
+  "X_median": "> 8000",
+  "X_p90": "> 8000",
+  "effort_bits_nmax": 48.6,
+  "n_max": 8000
+ },
+ {
+  "condition": "m\u00e9lange seul",
+  "surcout_pct": 6.6,
+  "X_median": 200,
+  "X_p90": 200,
+  "effort_bits_nmax": 0.0,
+  "n_max": 8000
+ },
+ {
+  "condition": "niveau Tr\u00e8s fort",
+  "surcout_pct": 37.7,
+  "X_median": 2000,
+  "X_p90": 3000,
+  "effort_bits_nmax": 13.3,
+  "n_max": 8000
+ }
+]

@@ -1,0 +1,10 @@
+{
+ "BASE_CYC": 45045.0,
+ "ref": "/media/khadim/2A53DBCE3700DFDA/trace/v10/campagnes/sans_bruit_v10",
+ "firmware": {
+  "version": 10,
+  "graine_adc": true,
+  "changements_lsb": 235,
+  "fm_shift": 2
+ }
+}

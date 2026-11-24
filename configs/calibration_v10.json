@@ -1,0 +1,10 @@
+{
+ "BASE_CYC": 45045.0,
+ "T_TRES_FORT": 62007.1198,
+ "CIBLE_PCT": 37.65594361194362,
+ "R_DELAIS": 712,
+ "SURCOUT_DELAIS": 41.22833677433677,
+ "ecart_cout_delais_vs_tres_fort_pct": 2.5951608544153126,
+ "build": "a0f389e1187f",
+ "source": "reconstitu\u00e9 le 28/10 \u00e0 partir des campagnes de 20 000 traces (trig.npy) ; R_DELAIS = 712 calibr\u00e9 sur l'ancienne cible +42,6 %"
+}

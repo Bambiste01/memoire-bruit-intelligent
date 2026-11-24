@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce logiciel, merci de le citer comme ci-dessous."
+title: "Générateur de bruit intelligent pour la protection des systèmes embarqués (AES-128, STM32F3)"
+abstract: >-
+  Code source du mémoire de Master MS2E (UCAD, LACGAA) : générateur de bruit
+  logiciel piloté par un arbre de décision embarqué, optimisé par ParEGO, pour
+  la protection d'un AES-128 sur STM32F3 contre les attaques SCA et FIA.
+authors:
+  - family-names: Sarr
+    given-names: Khadim
+    affiliation: "Université Cheikh Anta Diop de Dakar, LACGAA"
+version: 13.0.0
+date-released: "2026-01-01"
+license: MIT
+repository-code: "https://github.com/Bambiste01/memoire-bruit-intelligent"
+keywords:
+  - side-channel attack
+  - fault injection
+  - noise generator
+  - AES
+  - STM32F3
+  - ParEGO
+  - embedded AI
