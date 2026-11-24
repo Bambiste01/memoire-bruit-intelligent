@@ -21,3 +21,7 @@ keywords:
   - STM32F3
   - ParEGO
   - embedded AI
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24503568
+    description: "Version archivée sur Zenodo"

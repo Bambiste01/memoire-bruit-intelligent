@@ -33,7 +33,7 @@ Dépendances : numpy, scipy, pandas, scikit-learn, chipwhisperer, pycryptodome.
 
 Sarr, K. (2026). Générateur de bruit intelligent pour la protection des
 systèmes embarqués (Version 13.0.0) [Computer software]. Zenodo.
-https://doi.org/10.5281/zenodo.XXXXXXX
+https://doi.org/10.5281/zenodo.24503568
 
 ## Licence
 
