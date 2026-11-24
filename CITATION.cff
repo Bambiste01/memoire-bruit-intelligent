@@ -9,7 +9,7 @@ authors:
   - family-names: Sarr
     given-names: Khadim
     affiliation: "Université Cheikh Anta Diop de Dakar, LACGAA"
-version: 13.0.0
+version: 13.0.1
 date-released: "2026-01-01"
 license: MIT
 repository-code: "https://github.com/Bambiste01/memoire-bruit-intelligent"
